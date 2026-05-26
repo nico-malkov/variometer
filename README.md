@@ -15,7 +15,7 @@ The goal of this project is to create a miniature intelligent device for hobby p
 • nRF52840 Cortex-M4 microcontroller unit with Bluetooth capability <br>
 • Secure firmware update via Bluetooth with NRF Connect android app <br>
 • Integration with XCTrack android app for sourcing barometer data <br>
-• Sourcing GPS data from ORG1410 module <br>
+• Sourcing of GPS data from ORG1410 module <br>
 • Creation of txt logs <br>
 • Connection to PC via USB as a mass-storage device <br>
 
