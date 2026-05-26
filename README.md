@@ -49,4 +49,6 @@ variometer\software\nRF5_SDK_17.1.0\examples\peripheral\variometer_v143\vario1d5
 
 Please contact me with any questions via email nicomalkov@yandex.com <br>
 
-<b> Cheers! </b>
+<b> Cheers! </b> <br>
+
+<img width="1280" height="960" alt="Image" src="https://github.com/user-attachments/assets/01c76b8c-7608-46d5-b881-e75917860a43" />
