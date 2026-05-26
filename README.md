@@ -25,7 +25,7 @@ The goal of this project is to create a miniature intelligent device for hobby p
 
 <b> The flaws of the current design include: </b>
 
-• No IGC-format GPS tracking (to-do) <br>
+• No IGC-format GPS tracking in software (to-do) <br>
 • Large power consumption in GPS tracking mode: up to 60 mW <br>
 • Сustom manufacturing of solar cells is totally unpractical even though it is possible <br>
 
