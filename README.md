@@ -19,9 +19,9 @@ The goal of this project is to create a miniature intelligent device for hobby p
 • Creation of txt logs <br>
 • Connection to PC via USB as a mass-storage device <br>
 
-<img width="891" height="980" alt="Image" src="https://github.com/user-attachments/assets/d46a01dc-f1af-4d5b-a915-502892e67822" />
+<img width="1754" height="1240" alt="Image" src="https://github.com/user-attachments/assets/42349eb3-e6e6-4404-a622-162120f83e46" />
 
-<img width="891" height="980" alt="Image" src="https://github.com/user-attachments/assets/08a77b18-bada-46b1-8f48-b8352ab2d118" /> <br>
+<img width="1754" height="1240" alt="Image" src="https://github.com/user-attachments/assets/679462e2-ab79-4772-a9fa-4167f0d289d2" /> <br>
 
 <b> The flaws of the current design include: </b>
 
