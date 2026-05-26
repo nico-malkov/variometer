@@ -1,17 +1,17 @@
 <b> Variometer v1.5 (hardware) v143 (software) </b>
 
-The goal of this project is to create a miniature intelligent device for hobby paragliding - a variometer. The initial concept lookes like this:
+The goal of this project is to create a miniature intelligent device for hobby paragliding - a variometer. The initial concept looks like this:
 
 <img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/fed3d281-5794-4462-a570-929256c53806" /> <br>
 
 
-<b> The current design succeded in achieving technical goals and made open-source. It implements such features: </b>
+<b> The current design succeeded in achieving technical goals and made open-source. It implements such features: </b>
 
 • Compact size and minimum weight of 23 grams <br>
-• Power from solar cells of 170 mW at peak with consumption of 40 mW at avarage <br>
+• Power from solar cells of 170 mW at peak with consumption of 40 mW at average <br>
 • IP67 rating with PTFE vented barometer membrane <br>
 • Kalman filter lag-free acoustic variometer, combining data from ms5637 barometer and icm20948 IMU <br>
-• Bulit-in capacitive touch button <br>
+• Built-in capacitive touch button <br>
 • nRF52840 Cortex-M4 microcontroller unit with Bluetooth capability <br>
 • Secure firmware update via Bluetooth with NRF Connect android app <br>
 • Integration with XCTrack android app for sourcing barometer data <br>
@@ -27,7 +27,7 @@ The goal of this project is to create a miniature intelligent device for hobby p
 
 • No IGC-format GPS tracking in software (to-do) <br>
 • Large power consumption in GPS tracking mode: up to 60 mW <br>
-• Сustom manufacturing of solar cells is totally unpractical even though it is possible <br>
+• Custom manufacturing of solar cells is totally unpractical even though it is possible <br>
 
 <img width="3904" height="2441" alt="Image" src="https://github.com/user-attachments/assets/73f59914-fcfc-4cd3-9343-1eaf10ff6a32" /> <br>
 
