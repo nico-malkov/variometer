@@ -10,7 +10,7 @@ The goal of this project is to create a miniature smart device for hobby paragli
 • Compact size and minimum weight of 23 grams <br>
 • Power from solar cells of 170 mW at peak with consumption of 40 mW at average <br>
 • IP67 rating with PTFE vented barometer membrane <br>
-• Kalman filter acoustic variometer, combining data from ms5637 barometer and icm20948 IMU <br>
+• Acoustic variometer with responsive Kalman filter, combining data from ms5637 barometer and icm20948 IMU <br>
 • Built-in capacitive touch button <br>
 • nRF52840 Cortex-M4 microcontroller unit with Bluetooth capability <br>
 • Secure firmware update via Bluetooth with NRF Connect android app <br>
