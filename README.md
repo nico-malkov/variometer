@@ -33,17 +33,17 @@ The goal of this project is to create a miniature smart device for hobby paragli
 
 <b> The project folder contains 'hardware' and 'software' subfolders: </b> <br>
 
-1) The "Hardware" folder contains a "PCB" subfolder with the complete project in Altium Designer. To open it start with the file: <br>
+1) The 'hardware' folder contains a "PCB" subfolder with the complete project in Altium Designer. To open it start with the file: <br>
 variometer\hardware\PCB\v1.5 Project.PrjPcb <br>
 
 <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/295052d2-3845-4659-a885-4c4dd673485b" /> <br>
 
-2) The 'Hardware' folder contains a 'case' subfolder with the 3D model in Solid Works. To open it start with the file: <br>
+2) The 'hardware' folder contains a 'case' subfolder with the 3D model in Solid Works. To open it start with the file: <br>
 variometer\hardware\case\v1.5 Case.SLDPRT <br>
 
 <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/4d6a821e-c780-4e7a-942b-93936d614f89" /> <br>
 
-3) The 'Software' folder contains an 'nRF5_SDK_17.1.0' subfolder with the complete project in Segger Embedded Studio. To open it start with the file: <br>
+3) The 'software' folder contains an 'nRF5_SDK_17.1.0' subfolder with the complete project in Segger Embedded Studio. To open it start with the file: <br>
 variometer\software\nRF5_SDK_17.1.0\examples\peripheral\variometer_v143\vario1d5\s140\ses\vario1d5_s140.emProject <br>
 
 <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/714a341d-aff3-4789-a179-082a5da08aa0" /> <br>
